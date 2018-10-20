@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="HP" name="com.qa.test.DemoTest" tests="4" failures="0" timestamp="20 Oct 2018 17:40:35 GMT" time="0.093" errors="0">
+  <testcase name="div" time="0.039" classname="com.qa.test.DemoTest"/>
+  <testcase name="mul" time="0.002" classname="com.qa.test.DemoTest"/>
+  <testcase name="sub" time="0.004" classname="com.qa.test.DemoTest"/>
+  <testcase name="sum" time="0.002" classname="com.qa.test.DemoTest"/>
+</testsuite>

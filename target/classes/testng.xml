@@ -1,0 +1,15 @@
+
+<suite name="maven test suite">
+
+<Test name="maven test name">
+
+<packages>
+
+<package name="com.qa.test.*"/>
+
+</packages>
+
+</Test>
+
+
+</suite>

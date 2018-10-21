@@ -22,7 +22,7 @@ public class DemoTest {
 		int a = 30;
 		int b = 20;
 		System.out.println("Subtract");
-		Assert.assertEquals(20, a-b);
+		Assert.assertEquals(10, a-b);
 	}
 	
 	@Test
